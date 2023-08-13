@@ -1,4 +1,4 @@
-package dp.observer_03;
+package dp.observer_07;
 
 public class SmsNotificationSender implements PriceObserver{
     @Override
